@@ -1,5 +1,7 @@
 JAVASCRIPT
 
+This module will handle user registration and login. You might use technologies like JWT for handling authentication.
+
 // Sample code for user registration
 app.post('/register', async (req, res) => {
     const { name, email, password } = req.body;
