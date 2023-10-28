@@ -1,0 +1,9 @@
+JAVASCRIPT
+
+This module will handle voting on proposals.
+
+// Sample code for voting on a proposal
+app.post('/vote', authenticateToken, (req, res) => {
+    const { proposalId, vote } = req.body;
+    // Record the vote in the database
+});
