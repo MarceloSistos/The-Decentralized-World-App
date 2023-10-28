@@ -13,7 +13,8 @@ The application uses blockchain as a distributed and immutable database that sto
 
 Some of the features and functionalities of The Decentralized World App are:
 
-- User authentication and registration with kyc.
+- User registration with kyc.
+- User authentication with Email/User and password or Biometrical (Face ID)
 - Proposal creation and voting system with different topics and categories.
 - Real-time voting results and verification on the blockchain.
 - User profile and settings management.
@@ -24,7 +25,7 @@ Some of the features and functionalities of The Decentralized World App are:
 
 To use The Decentralized World App, the following steps must be followed:
 
-- Create a user account with your name, email and password.
+- Create a user account with your ID or Biometrical (Face ID)
 - Access the application with your credentials.
 - Explore the different proposals and topics that are submitted to voting in the application.
 - Vote for the proposals that interest you or create your own proposals.
