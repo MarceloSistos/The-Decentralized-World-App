@@ -1,0 +1,8 @@
+JAVASCRIPT
+
+Notification System: This module will send notifications to users when there are new proposals or votes.
+
+// Sample code for sending a notification
+const sendNotification = async (userId, message) => {
+    // Send a notification to the user
+};
