@@ -1,0 +1,9 @@
+JAVASCRIPT
+
+This module will allow users to create new proposals and view existing ones.
+
+// Sample code for creating a new proposal
+app.post('/proposal', authenticateToken, (req, res) => {
+    const { title, description } = req.body;
+    // Save the proposal in the database
+});
