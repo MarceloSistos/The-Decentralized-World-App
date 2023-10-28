@@ -1,0 +1,9 @@
+JAVASCRIPT
+
+Proposal Categories: This module will allow users to categorize their proposals.
+
+// Sample code for adding a category to a proposal
+app.post('/proposal/category', authenticateToken, (req, res) => {
+    const { proposalId, category } = req.body;
+    // Add the category to the proposal in the database
+});
