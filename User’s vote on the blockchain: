@@ -1,4 +1,6 @@
-Possible function that validates a user’s vote on the blockchain using JavaScript:
+JAVASCRIPT
+
+Possible function that validates a user’s vote on the blockchain.
 
 // A function that validates a user's vote on the blockchain
 function validateVote(user, proposal, vote) {
