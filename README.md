@@ -20,16 +20,6 @@ Some of the features and functionalities of The Decentralized World App are:
 - User feedback and rating system.
 - Notifications and alerts for new proposals and votes.
 
-## Installation
-
-To install and run The Decentralized World App, the following steps are required:
-
-- Download and install the necessary software to create and manage a blockchain network (such as Hyperledger Fabric or Ethereum).
-- Clone or download this GitHub repository on your computer.
-- Open a terminal and navigate to the project folder.
-- Run the command `npm install` to install the project dependencies.
-- Run the command `npm start` to start the application.
-
 ## Usage
 
 To use The Decentralized World App, the following steps must be followed:
@@ -49,6 +39,16 @@ The Decentralized World App is an open source project that invites collaboration
 - Make the necessary changes in the source code or documentation of the project.
 - Commit with a descriptive message of the changes made.
 - Make a pull request to the original repository requesting the integration of your changes.
+
+## Installation
+
+To install and run The Decentralized World App, the following steps are required:
+
+- Download and install the necessary software to create and manage a blockchain network (such as Hyperledger Fabric or Ethereum).
+- Clone or download this GitHub repository on your computer.
+- Open a terminal and navigate to the project folder.
+- Run the command `npm install` to install the project dependencies.
+- Run the command `npm start` to start the application.
 
 ## License
 
