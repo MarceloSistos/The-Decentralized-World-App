@@ -7,13 +7,13 @@ The App for Human Redisigned Invention
 
 The Decentralized World App is an application that aims to create a decentralized government where everyone can vote on everything from their cell phone, using blockchain technology. The goal is to empower people to actively participate in the decision-making that affects their lives, without intermediaries or corruption.
 
-The application uses blockchain as a distributed and immutable database that stores and verifies the transactions and votes of the users. Blockchain is a technology that allows creating secure, transparent and decentralized networks, where data is shared and validated by all participants[^2^][2] [^3^][3]. With blockchain, the integrity, traceability and auditability of the democratic processes can be guaranteed.
+The application uses blockchain as a distributed and immutable database that stores and verifies the transactions and votes of the users. Blockchain is a technology that allows creating secure, transparent and decentralized networks, where data is shared and validated by all participants. With blockchain, the integrity, traceability and auditability of the democratic processes can be guaranteed.
 
 ## Features
 
 Some of the features and functionalities of The Decentralized World App are:
 
-- User authentication and registration with name, email and password.
+- User authentication and registration with kyc.
 - Proposal creation and voting system with different topics and categories.
 - Real-time voting results and verification on the blockchain.
 - User profile and settings management.
@@ -24,7 +24,7 @@ Some of the features and functionalities of The Decentralized World App are:
 
 To install and run The Decentralized World App, the following steps are required:
 
-- Download and install the necessary software to create and manage a blockchain network, such as Hyperledger Fabric[^4^][4] or Ethereum[^5^][5].
+- Download and install the necessary software to create and manage a blockchain network (such as Hyperledger Fabric or Ethereum).
 - Clone or download this GitHub repository on your computer.
 - Open a terminal and navigate to the project folder.
 - Run the command `npm install` to install the project dependencies.
