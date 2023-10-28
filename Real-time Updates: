@@ -1,0 +1,8 @@
+JAVASCRIPT
+
+Real-time Updates: This module will push real-time updates to the client.
+
+// Sample code for sending a real-time update
+const sendRealTimeUpdate = async (userId, update) => {
+    // Send a real-time update to the user
+};
