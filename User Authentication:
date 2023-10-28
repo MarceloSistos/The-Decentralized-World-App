@@ -1,0 +1,8 @@
+JAVASCRIPT
+
+// Sample code for user registration
+app.post('/register', async (req, res) => {
+    const { name, email, password } = req.body;
+    const hashedPassword = await bcrypt.hash(password, 10);
+    // Save the user in the database
+});
